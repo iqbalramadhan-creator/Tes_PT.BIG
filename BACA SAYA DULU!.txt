@@ -1,0 +1,11 @@
+BACA SAYA TERLEBIH DAHULU!
+
+1. Pada jawaban pertama ini hanya program hanya berhasil menampilkan utput membalik kata. Berikut algoritmanya.
+2. jawaban pada soal ini, saya membuat algoritma langsung dijadikan satu, dan hasil akhirnya nanti setelah program diajalankan 
+   pengguna diminta untuk memasukkan jumlah bintang yang diinginkan.
+3. Untuk jawaban nomer 3 ini, output disoal adalah angka, saya rubah menjadi alphabet. Untuk hasil output yang dihasilkan sama
+4. Skema atau rancangan database aplikasi point of sales. Spesifikasi seperti yang diminta pada soal.
+5. mohon maaf untuk soal nomer 5 ini belum sempat saya kerjakan.
+
+Terima kasih sebelumnya sudah memberikan kesempatan ini kepada saya. saya mengharapkan kabar baik dari bapak untuk sesi ini.
+mohon maaf jika jawaban saya masih belum sempurna seperti apa yang diminta. 
